@@ -30,7 +30,6 @@ Open the application and start managing your tasks effortlessly.
 
 ## Screenshots
 ![image](https://github.com/ShivamGupta82/Remind_Me/assets/114674655/1172f0bc-e26d-4383-8c30-55d24e0c63f4)
-![image](https://github.com/ShivamGupta82/Remind_Me/assets/114674655/5b463cb1-3cc9-4b6b-8aad-5442540361f3)
 
 ## Feedback
 
