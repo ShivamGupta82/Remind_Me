@@ -14,15 +14,15 @@ Remind Me is a to-do list-based application built in Java using the NetBeans Fra
 
 ### Download
 
-Access the Remind Me application by downloading the JAR file from the [Releases](https://github.com/your-username/your-repository/releases) page.
+Access the Remind Me application by downloading the JAR file from the [Releases](https://github.com/ShivamGupta82/Remind_Me/releases) page.
 
 ### System Requirements
 
-Ensure you have Java installed on your machine (version X.X.X or higher).
+Ensure you have Java installed on your machine (version 20.0.2 or higher).
 
 ### Installation
 
-No installation required. Simply run the JAR file.
+No installation is required. Simply run the JAR file.
 
 ### Getting Started
 
@@ -32,7 +32,7 @@ Open the application and start managing your tasks effortlessly.
 ![image](https://github.com/ShivamGupta82/Remind_Me/assets/114674655/1172f0bc-e26d-4383-8c30-55d24e0c63f4)
 ## Feedback
 
-We welcome your feedback and suggestions to improve Remind Me. Please feel free to create issues on the [GitHub repository](https://github.com/your-username/your-repository/issues) or reach out to us directly.
+We welcome your feedback and suggestions to improve Remind Me. Please feel free to create issues on the [GitHub repository](https://github.com/ShivamGupta82/Remind_Me/issues) or reach out to us directly.
 
 ## Contributing
 
